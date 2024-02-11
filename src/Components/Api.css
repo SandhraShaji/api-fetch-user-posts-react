@@ -1,0 +1,9 @@
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.card1{
+    margin-block: 10px;
+}

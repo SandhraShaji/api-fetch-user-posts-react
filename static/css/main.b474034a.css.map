@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.b474034a.css","mappings":"AAAA,OACI,YAAa,CACb,kBAAmB,CAEnB,cAAe,CADf,4BAEJ,CACA,OACI,iBACJ","sources":["Components/Api.css"],"sourcesContent":[".cards{\r\n    display: flex;\r\n    flex-direction: row;\r\n    justify-content: space-evenly;\r\n    flex-wrap: wrap;\r\n}\r\n.card1{\r\n    margin-block: 10px;\r\n}"],"names":[],"sourceRoot":""}

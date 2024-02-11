@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/api-fetch-user-posts-react/static/css/main.b474034a.css",
+    "main.js": "/api-fetch-user-posts-react/static/js/main.a1eb3b0b.js",
+    "index.html": "/api-fetch-user-posts-react/index.html",
+    "main.b474034a.css.map": "/api-fetch-user-posts-react/static/css/main.b474034a.css.map",
+    "main.a1eb3b0b.js.map": "/api-fetch-user-posts-react/static/js/main.a1eb3b0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b474034a.css",
+    "static/js/main.a1eb3b0b.js"
+  ]
+}
